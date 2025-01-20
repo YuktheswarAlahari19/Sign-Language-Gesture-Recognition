@@ -64,7 +64,7 @@ The project consists of four main Python scripts:
 
 ## Important Note
 
-Before training, it is crucial to acquire or create a high-quality, comprehensive Indian Sign Language dataset for optimal results. The current implementation uses a limited dataset for demonstration purposes.
+Before training a sign language recognition model, it's very important to have a good dataset. This means you need a collection of images or videos that show different signs clearly and accurately. This is true not just for Indian Sign Language (ISL) but for all types of sign languages.
 
 ## Future Improvements
 
